@@ -1,5 +1,5 @@
 """
-This script is only tested on a window 10 environment
+This script is only tested on a windows 10 environment
 """
 
 
